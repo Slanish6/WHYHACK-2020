@@ -1,0 +1,385 @@
+.mediaViewInfo {
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: HOME;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#HOME {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(228,172,172,1);
+	overflow: hidden;
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#Path_1 {
+	fill: rgba(225,48,108,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 19px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1982px;
+	height: 178.5px;
+	left: -2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#photo-1586075010923-2dd4570fb3 {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 1923px;
+	height: 959px;
+	left: 0px;
+	top: 121px;
+	overflow: visible;
+}
+#Lets_get_started {
+	left: 757px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 46px;
+	color: rgba(149,73,74,1);
+}
+#Component_11__1 {
+	position: absolute;
+	width: 170.5px;
+	height: 55.5px;
+	left: 1420.5px;
+	top: 48px;
+	overflow: visible;
+}
+#About_Us {
+	left: 6.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_2 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 143px;
+	height: 12px;
+	left: 0px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Already_a_member____ {
+	left: 723px;
+	top: 945px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(149,73,74,1);
+}
+#Component_17__1 {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 1053px;
+	top: 945px;
+	overflow: visible;
+}
+#Login {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 300px;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(149,73,74,1);
+}
+#Line_5 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 73px;
+	height: 1px;
+	left: 9.5px;
+	top: 30.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_12__3 {
+	position: absolute;
+	width: 380.5px;
+	height: 55.5px;
+	left: 1648px;
+	top: 48px;
+	overflow: visible;
+}
+#Component_15__1 {
+	position: absolute;
+	width: 153px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_3 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 204px;
+	height: 12px;
+	left: 176.5px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_17__2 {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	left: 1053px;
+	top: 945px;
+	overflow: visible;
+}
+#Login_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 300px;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(149,73,74,1);
+}
+#Line_5_ {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_ {
+	overflow: visible;
+	position: absolute;
+	width: 86.012px;
+	height: 2px;
+	left: 0.5px;
+	top: 29.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_11__2 {
+	position: absolute;
+	width: 173.5px;
+	height: 55.5px;
+	left: 1219px;
+	top: 48px;
+	overflow: visible;
+}
+#__Scratch {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_2_ba {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2_ba {
+	overflow: visible;
+	position: absolute;
+	width: 146px;
+	height: 12px;
+	left: 27.5px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_20__1 {
+	position: absolute;
+	width: 302px;
+	height: 155px;
+	left: 793px;
+	top: 753px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(239,23,23,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 155px;
+	left: 0px;
+	top: 0px;
+}
+#Join_us {
+	text-decoration: none;
+	left: 57px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 53px;
+	color: rgba(235,233,233,1);
+}
+#mewow {
+	left: 33px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 70px;
+	color: rgba(246,237,237,1);
+}
+#hiclipartcom {
+	position: absolute;
+	width: 567px;
+	height: 567px;
+	left: 693px;
+	top: 61px;
+	overflow: visible;
+}
+#Your_purr-fect_pal_to_learn_wi {
+	left: 767px;
+	top: 541px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(243,36,129,1);
+}
+
+a{
+	color: white;
+	text-decoration: none;
+
+}
+a:hover{
+	color: maroon;
+}

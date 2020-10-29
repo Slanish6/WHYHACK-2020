@@ -1,0 +1,403 @@
+.mediaViewInfo {
+	--web-view-name: CONTACT;
+	--web-view-id: CONTACT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: CONTACT;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#CONTACT {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(228,172,172,1);
+	overflow: hidden;
+	--web-view-name: CONTACT;
+	--web-view-id: CONTACT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#photo-1586075010923-2dd4570fb3 {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 2336px;
+	height: 1448px;
+	left: -374px;
+	top: -230px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(225,48,108,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 19px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1982px;
+	height: 178.5px;
+	left: -2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#mewow {
+	left: 33px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 70px;
+	color: rgba(246,237,237,1);
+}
+#Component_11__19 {
+	position: absolute;
+	width: 170.5px;
+	height: 55.5px;
+	left: 1420.5px;
+	top: 48px;
+	overflow: visible;
+}
+#About_Us {
+	left: 6.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_2 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 143px;
+	height: 12px;
+	left: 0px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_12__10 {
+	position: absolute;
+	width: 380.5px;
+	height: 55.5px;
+	left: 1648px;
+	top: 48px;
+	overflow: visible;
+}
+#Component_15__1 {
+	position: absolute;
+	width: 153px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_3 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 204px;
+	height: 12px;
+	left: 176.5px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_11__20 {
+	position: absolute;
+	width: 155.5px;
+	height: 55.5px;
+	left: 1202.5px;
+	top: 48px;
+	overflow: visible;
+}
+#Scratch {
+	left: 0.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(246,237,237,1);
+}
+#Line_2_ {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(196,112,182,1);
+	stroke-width: 12px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2_ {
+	overflow: visible;
+	position: absolute;
+	width: 143px;
+	height: 12px;
+	left: 0px;
+	top: 55.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	left: 712px;
+	top: 187px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 56px;
+	color: rgba(225,48,108,1);
+	letter-spacing: 0.05px;
+}
+# {
+	left: 1201px;
+	top: 764px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 36px;
+	color: rgba(226,48,107,1);
+	letter-spacing: 0.05px;
+}
+#WhatsApp_Image_2020-10-28_at_1 {
+	position: absolute;
+	width: 447px;
+	height: 475px;
+	left: 770px;
+	top: 596px;
+	overflow: visible;
+}
+#Component_38__1 {
+	position: absolute;
+	width: 477.227px;
+	height: 63.337px;
+	left: 1266.773px;
+	top: 419.668px;
+	overflow: visible;
+}
+#Icon_awesome-instagram {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 69.227px;
+	height: 63.332px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-youtube {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-youtube {
+	overflow: visible;
+	position: absolute;
+	width: 78px;
+	height: 63.337px;
+	left: 265.227px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-linkedin-in {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-linkedin-in {
+	overflow: visible;
+	position: absolute;
+	width: 55.55px;
+	height: 61.332px;
+	left: 421.677px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook-f {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-facebook-f {
+	overflow: visible;
+	position: absolute;
+	width: 40px;
+	height: 62px;
+	left: 147.227px;
+	top: 0.332px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Also_find_us_at {
+	left: 1326px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 43px;
+	color: rgba(225,48,108,1);
+	letter-spacing: 0.05px;
+}
+#Icon_material-location-on {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 42.25px;
+	height: 60px;
+	left: 147.075px;
+	top: 350px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-email {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-email {
+	overflow: visible;
+	position: absolute;
+	width: 50.721px;
+	height: 44.814px;
+	left: 147px;
+	top: 602px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#XIXC-18_Central_Perk_Building_ {
+	left: 212px;
+	top: 350px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(77,72,73,1);
+	letter-spacing: 0.05px;
+}
+#Mob_7012399976 {
+	left: 212px;
+	top: 494px;
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(77,72,73,1);
+	letter-spacing: 0.05px;
+}
+#mewoworld20gmailcom {
+	left: 212px;
+	top: 612px;
+	position: absolute;
+	overflow: visible;
+	width: 412px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Axiforma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(77,72,73,1);
+	letter-spacing: 0.05px;
+}
+#Icon_awesome-phone-alt {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-phone-alt {
+	overflow: visible;
+	position: absolute;
+	width: 43.838px;
+	height: 47.586px;
+	left: 145px;
+	top: 482px;
+	transform: matrix(1,0,0,1,0,0);
+}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+a:hover{
+	color: maroon;
+}
